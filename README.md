@@ -1,8 +1,8 @@
 # Safe-Courier-Repo
 Safe Courier is a parcel delivery web application.
 
-
 SAFE COURIER DESIGN
+
 -- Link to logo designs - https://drive.google.com/drive/folders/1kSFGbz1k8F-QC-eXX3PAVUIbjPqG25f1?usp=sharing
 
 -- Link to Figma UI/UX Design - https://www.figma.com/file/5fvq7MpCieAn5NX3e846Fs/Safe-Courier?node-id=1%3A6
