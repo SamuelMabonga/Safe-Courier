@@ -9,6 +9,8 @@ SAFE COURIER DESIGN
 
 -- Link to Figma UI/UX Design PDF - https://drive.google.com/drive/folders/1zCuYZzuAJrM181KdyZyk1KY7d_GzEfe0?usp=sharing
 
+
+
 FRONTEND & BACKEND IMPLEMENTATION
 -- Unforntunately, I was diagnosed with COVID-19 just before the start of this exercise, therefore I could not deliver the assigned work as expected.
 -- However I will start updating the repo with code over the next 5 days. I really hope you bear with my circumstances, i really want to be part of this program once i get fully recovered. Thank You.
